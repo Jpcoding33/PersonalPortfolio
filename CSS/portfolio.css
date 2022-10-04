@@ -1,0 +1,21 @@
+.myimg{
+    border: 2px solid black;
+}
+body{
+    
+}
+.about{
+    font-family: sans-serif;
+    text-align: justify;
+}
+.skills{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 2px 2px 0;
+    width: 100px;
+}
+.skill{
+    text-align: center;
+}

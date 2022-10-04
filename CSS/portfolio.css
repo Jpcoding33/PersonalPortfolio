@@ -2,7 +2,10 @@
     border: 2px solid black;
 }
 body{
-    
+    background-color: #001D6E;
+}
+.AboutMe{
+    background-color: #FEE2C5;
 }
 .about{
     font-family: sans-serif;
